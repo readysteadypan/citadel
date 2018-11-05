@@ -19,7 +19,7 @@ You will need for running:
 
 * Ruby 2.5
 * Bundler
-* Postgres (configured in `config/database.yml`)
+* Postgres 9.5 (configured in `config/database.yml`)
 * ImageMagick
 
 You will also need for testing:
@@ -73,7 +73,9 @@ sudo apt install nodejs
 This project uses `rspec`, `rubocop`, `haml-lint` and `rails-best-practices` for
 testing and linting.
 
-All of these can be run in one command with rake
+To set up the database for testing, run: `rake parallel:setup`.
+
+All of these can be run in one command with rake:
 
 ```bash
 rake

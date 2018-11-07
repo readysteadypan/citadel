@@ -21,10 +21,7 @@ class League
 
       def unique_within_league
         return if user.blank? || roster.blank?
-
-        if league.players.where(user: user).where.not(id: id).exists?
-          errors.add(:base, 'Can only be in one roster per league')
-        end
+        errors.add(:base, 'Can only be in one roster per league') if league.players.where(user: user).where.not(id: id).exists?
       end
 
       def league_permissions

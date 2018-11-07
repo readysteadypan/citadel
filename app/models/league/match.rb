@@ -217,10 +217,7 @@ class League
 
     def validate_home_and_away_team_are_in_the_same_division
       return unless home_team.present? && away_team.present?
-
-      unless away_team.division == home_team.division
-        errors.add(:away_team, 'Must be in the same division as the home team')
-      end
+      errors.add(:away_team, 'Must be in the same division as the home team') unless away_team.division == home_team.division
     end
 
     def validate_teams_are_approved
@@ -253,9 +250,7 @@ class League
     end
 
     def validate_draws_not_allowed_when_winnable
-      if has_winner && allow_round_draws
-        errors.add(:allow_round_draws, "Match rounds can't draw when match has a winner")
-      end
+      errors.add(:allow_round_draws, "Match rounds can't draw when match has a winner") if has_winner && allow_round_draws
     end
 
     def set_defaults

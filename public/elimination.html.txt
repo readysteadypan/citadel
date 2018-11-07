@@ -1,0 +1,129 @@
+            <div class="col-md-9">
+                <h2>Double Elimination</h2>
+                <p>Double elimination is a confusing thing. We hope that this explanation makes it less confusing. For those who don’t know how a double eliminations bracket works, this article is for you. For everybody else, it’s the same system you already are familiar with (e.g.: in UGC playoffs).</p>
+                <p><b>Note:</b>This system only applies to playoffs at the end of the regular season, where the top 16 teams of each region play off against each other to win placements.</p>
+                <p>Rounds in playoffs consist of:</p>
+                <p><code>R1, R1L, R2, R2L, R3, R3L, R3L2, R4, R4L, R4L2, R5, R5L2</code>
+                </p>
+                <p>We will use this notation to denote “a game that is played.</p>
+                <p>Assume match days of Tuesday and Thursday (to make things easier, actual match dates might be different).</p>
+                <h3>Week 1 Tuesday:</h3>
+                <ul>
+                    <li>
+                        <p>R1 = 16 teams seeded, 8 go to the lower brackets.</p>
+                    </li>
+                </ul>
+                <h3>Week 1 Thursday:</h3>
+                <ul>
+                    <li>
+                        <p>R1L = 8 teams, 4 are eliminated.</p>
+                    </li>
+                </ul>
+                <h5>End of week 1: 8 teams in upper brackets, 4 in lower.</h5>
+                <h3>Week 2 Tuesday:</h3>
+                <ul>
+                    <li>
+                        <p>R2 = 8 teams seeded, 4 go to lower brackets.</p>
+                    </li>
+                </ul>
+                <h3>Week 2 Thursday:</h3>
+                <ul>
+                    <li>
+                        <p>R2L = 4 existing teams are matched individually with the losers in R2, four teams are eliminated.</p>
+                    </li>
+                </ul>
+                <h5>End of week 2: 4 teams in upper bracket, 4 teams still in lower bracket.</h5>
+                <h3>Week 3 Tuesday:</h3>
+                <ul>
+                    <li>
+                        <p>R3 = 4 teams seeded, two are sent to lower brackets.</p>
+                    </li>
+                </ul>
+                <h3>Week 3 Thursday:</h3>
+                <ul>
+                    <li>
+                        <p>R3L = 4 teams in lower brackets, play each other, two are eliminated.</p>
+                    </li>
+                </ul>
+                <h5>End of week 3: 2 teams in upper bracket, 4 in lower bracket.</h5>
+                <h3>Week 4 Tuesday:</h3>
+                <ul>
+                    <li>
+                        <p>R3L2 = The 2 winners of R3L play the 2 losers of R3, two teams are eliminated.</p>
+                    </li>
+                    <li>
+                        <p>R4 = 2 teams seeded, one team is sent to lower brackets.</p>
+                    </li>
+                </ul>
+                <h3>Week 4 Thursday:</h3>
+                <ul>
+                    <li>
+                        <p>R4L = Two existing teams in lower brackets play each other, loser is eliminated.</p>
+                    </li>
+                    <li>
+                        <p>Lower bracket finals! The fight for 3rd place.</p>
+                    </li>
+                    <li>
+                        <p>Best of three!</p>
+                    </li>
+                    <li>
+                        <p>An admin will choose a pool of 5 maps.</p>
+                    </li>
+                    <li>
+                        <p>The Home team will veto one of the maps. That map cannot be picked.</p>
+                    </li>
+                    <li>
+                        <p>The Away team will veto another map.</p>
+                    </li>
+                    <li>
+                        <p>The Home team picks the first map from the remaining pool. This map will be played first.</p>
+                    </li>
+                    <li>
+                        <p>The Away team picks the second map from the remaining pool. This map will be played second.</p>
+                    </li>
+                    <li>
+                        <p>The last remaining map will be played as a tiebreaker if there is a third game.</p>
+                    </li>
+                </ul>
+                <h5>End of week 4: 1 team remains in upper bracket (undefeated), 2 teams exist in lower brackets.</h5>
+                <h3>Week 5 Tuesday:</h3>
+                <ul>
+                    <li>
+                        <p>R4L2: The loser of R4 plays the last remaining team in the lower brackets. The loser is eliminated.</p>
+                    </li>
+                    <li>
+                        <p>These are the semifinals.</p>
+                    </li>
+                    <li>
+                        <p>Best of one.</p>
+                    </li>
+                    <li>
+                        <p>This isn’t fighting for a placement (both teams win placements) so it’s just a regular match.</p>
+                    </li>
+                </ul>
+                <h3>Week 5 Thursday:</h3>
+                <ul>
+                    <li>
+                        <p>R5 = the undefeated team plays the last team.</p>
+                    </li>
+                    <li>
+                        <p>These are the finals! The winner takes all... unless the winner is the team with one loss already.</p>
+                    </li>
+                    <li>
+                        <p>Best of three!</p>
+                    </li>
+                    <li>
+                        <p>R5L = the two teams play again.</p>
+                    </li>
+                    <li>
+                        <p>Winner takes all for real!</p>
+                    </li>
+                    <li>
+                        <p>Best of one!</p>
+                    </li>
+                    <li>
+                        <p>Teams play on the People’s Choice map.</p>
+                    </li>
+                </ul>
+                <h5>End of week 5: winner, runner up is announced.</h5>
+            </div>

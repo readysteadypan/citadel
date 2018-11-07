@@ -1,0 +1,5 @@
+- content_for(:title) { 'Links' }
+
+-# rubocop:disable Rails/OutputSafety
+= raw File.read(Rails.root.join('public', 'links.html.txt'))
+-# rubocop:enable Rails/OutputSafety

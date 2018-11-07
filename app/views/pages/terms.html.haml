@@ -1,0 +1,5 @@
+- content_for(:title) { 'Terms and Conditions' }
+
+-# rubocop:disable Rails/OutputSafety
+= raw File.read(Rails.root.join('public', 'terms.html.txt'))
+-# rubocop:enable Rails/OutputSafety

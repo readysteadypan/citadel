@@ -1,0 +1,5 @@
+- content_for(:title) { 'Credits' }
+
+-# rubocop:disable Rails/OutputSafety
+= raw File.read(Rails.root.join('public', 'credits.html.txt'))
+-# rubocop:enable Rails/OutputSafety

@@ -1,0 +1,208 @@
+﻿<h1 class="page-header text-center">Rules</h1>
+
+<!--
+<p>The following is an extremely simplified version of the rules found on this <a href="https://docs.google.com/document/d/1WNR-goahcx1Mn2-asfFKX8RM6lK6QBF3csFpFmoRGao/" target="_blank">Google Doc</a>. If you are very concerned about the rules or want to take a look at them, you are free to check that out, but this will suffice for most.</p>
+-->
+                <ol type="1">
+                    <li>
+                        <h5>Classlimits</h5>
+                    </li>
+                    <ul>
+                        <li>2 Scouts</li>
+                        <li>2 Soldiers</li>
+                        <li>2 Pyros</li>
+                        <li>2 Demomen</li>
+                        <li>0 Heavies</li>
+                        <li>0 Engineers</li>
+                        <li>0 Medics</li>
+                        <li>1 Sniper</li>
+                        <li>0 Spies</li>
+                    </ul>
+                    <li>
+                        <h5>Rosters</h5>
+                    </li>
+                    <ol type="a">
+                        <li>
+                            <p>You should have six players (the "core" team). You should have more, up to nine, to play as substitutes. If you are desperate, you may play with five, but no fewer.</p>
+                        </li>
+                        <li>
+                            <p>Up to two Non-Rostered Players ("Ringers" or "Mercs") are allowed without the need of approval from the other team during the main season. During Playoffs all Non-Rostered Players will require approval. Our intention with this rule is to put an emphasis on players being rostered and playing in the matches.</p>
+                            <p>NOTE: If any issues arise from non-rostered players, such as discharge of a non legal weapon that hits a player, then the team captain will get an infraction.</p>
+                        </li>
+						            <li>
+                            <p>Rosters can still be edited during the regular season, though adding players is subject to Admin approval.</p>
+                        </li>
+						            <li>
+                            <p>Rosters will be locked at the beginning of Week 6, meaning you can no longer edit your rosters. No new players can be added from this point on.</p>
+                        </li>
+                    </ol>
+                    <li>
+                        <h5>Allowed Weapons</h5>
+                    </li>
+                    <ul>
+                        <li>Bonk! Atomic Punch</li>
+                        <li>Crit-a-Cola</li>
+                        <li>Mad Milk</li>
+                        <li>Rocket Jumper</li>
+                        <li>Battalion's Backup (NEW)</li>
+                        <li>Buff Banner (NEW)</li>
+                        <li>B.A.S.E. Jumper (NEW)</li>
+                        <li>Gunboats</li>
+                        <li>Thermal Thruster (NEW)</li>
+                        <li>Sticky Jumper</li>
+                        <li>Ali Baba's Wee Booties</li>
+                        <li>Jarate</li>
+                        <li>Razorback</li>
+                        <li>Darwin's Danger Shield</li>
+                        <li>Machina</li>
+                        <ul>
+                            <li>To prevent accidental discharge of the primary weapon. Not allowed if the plugin is active.</li>
+                        </ul>
+                        <li>Reskins of the above</li>
+                        <li>Frying Pan</li>
+						<li><strong>The use of banned weapons, including stock, may result in individual infractions to the players in question if any damage is dealt. This will be on a case by case basis depending on if the damage was intentional or not. Logs and demos will need to be provided for any action to take place about these disputes.</strong></li>
+                    </ul>
+                    <li>
+                        <h5>Tournament Structure</h5>
+                    </li>
+                    <ol type="a">
+                        <li>
+                            <p>We use a Swiss-like system (maybe more similar to King-of-the-Hill) for the preseason and regular season.</p>
+                        </li>
+                        <li>
+                            <p>There is one preseason game that determine's a team's pre-seeded position in the scoreboard.</p>
+                        </li>
+                        <li>
+                            <p>The total number of regular season games is calculated by the following (A is number of NA teams, B is number of EU teams, C is number of AUNZ teams):</p>
+                        </li><img alt="Rounds number algorithm" class="img-responsive center-block" src="assets/rules/numrounds.png">
+                        <li>
+                            <p>Playoffs is top 16 double elimination, and will run for five weeks. The finals and lower bracket finals are best of three.</p>
+                        </li>
+                    </ol>
+                    <li>
+                        <h5>Ping and Region</h5>
+                    </li>
+                    <ol type="a">
+                        <li>
+                            <p>If the Away team in any match has greater than 70 ms of ping difference before a match (provided at least five players are present), the Away team may request a server change. If there are still ping issues, an admin may either present both teams with a server, or both teams must play on the original Home server.</p>
+                        </li>
+                        <li>
+                            <p>If any individual player has more than 150 ping “constantly”, that player must leave the server and should be replaced with another player. Heavy penalties apply on repeated offences.</p>
+                        </li>
+                        <li>
+                            <p>Matches taking place in a regional division must be played on a server in that region. These rules are still subject to the ping rules.</p>
+                        </li>
+                    </ol>
+                    <li>
+                        <h5>Conduct</h5>
+                    </li>
+                    <ol type="a">
+                        <li>
+                            <p>All conduct rules apply to match comms, in-game communication, public Discord chat (on the RSP Discord, but not voice comms without recorded evidence), and our Steam group.</p>
+                        </li>
+                        <li>
+                            <p>Don't be a dick. Try to be a good sport. Never get personal.</p>
+                        </li>
+                        <li>
+                            <p>We can only cast games with clean aliases, no fakenicking, and no unsavoury chat in-game. Though conduct may not be bannable, it can result in your game not being casted.</p>
+                        </li>
+                        <li>
+                            <p>Swearing, spamming (including binds), and trash-talk goes under the same rule: excessive is a ban, reasonable or not. If you are reported, it is admin discretion what is not reasonable.</p>
+                        </li>
+						<li>
+							<p>It is okay to be angry when dealing with a problem, however we will not tolerate constant disrepectful attitudes. After one warning, a strike will be issued if the disrepect continues. The staff are all volunteers, and while we will try our best to be helpful and calm, we request that you give us that same courtesy.</p>
+						</li>
+                    </ol>
+                    <li>
+                        <h5>Playing Matches</h5>
+                    </li>
+                    <ol type="a">
+			                  <li>
+                            <p>The default match day for Season 4 is Friday at 9:30 PM (EST for NA, UTC-3 for SA, CEST for EU, AEST for AU/NZ), meaning if no other day is agreed on then Friday must be the day you play. Teams are required to use website Match Comms, as well as team captains communicating through steam to find a match time that works for both of them. Teams must do all in their power to play on the default or agreed upon day, and submit scores by the deadline. In the event that the team captain or member with leader permissions is unavailable for communication prior to a match, teams are required to delegate that responsibility to a co-captain and make the enemy team aware of this via Match Comms so the correct players can be contacted.</p>
+                        </li>
+			                  <li>
+                            <p>Match Scores submission deadline is 11:59 PM EST Saturday Night.</p>
+                        </li>
+                        <li>
+                            <p>No matches will take place on Sundays.</p>
+                        </li>
+			                  <li>
+                            <p>We will only accept Match Comms as official record; please use them to record time, place, and any issues. Please use standard time zones according to your regions (NA uses EST, EU uses , and AU/NZ uses AEDT), and take note of the offset to your time zone and plan accordingly.</p>
+                        </li>
+			                  <li>
+                            <p>The winning team should report the score. Proof that a team has done everything possible to contact the opposing team is required on forfeit wins.</p>
+                        </li>
+			                  <li>
+                            <p>You must be able to provide logs and STV. Logs should be provided in the Match Comms prior to submitting score, and the STV should be kept in case a moderator requests it.</p>
+                        </li>
+                        <li>
+                            <p>Use our website's resources to stay up to date with the competition.</p>
+                        </li>
+                        <li>
+                            <p>Attack/Defend will played via Stopwatch. Win conditions of stopwatch are one team attacks a round, then teams automatically switch. The other team must attack and complete the map faster than the first team did to win, or else they lose. This is played best 2 of 3.</p>
+                        </li>
+                        <li>
+                            <p>King of the Hill maps are won by the first to 3 points, Best of 5 points. If the time runs out before the end, then the team with the most points is declared the winner.</p>
+                        </li>
+                        <li>
+                            <p>3CP/Push maps are won by the team to capture the most points when the timer runs out or the first to 3 points. If the scores are even at the end of the time limit, an infinite Sudden Death plays out. The winner is then the last team (member) standing, or the team to capture the last point.</p>
+                        </li>
+                        <li>
+                            <p>Teams receive a maximum of three pauses in a match all adding up to a total of 15 minutes, preceded by a 15 second warning. If a team goes over this pause length or have been found to have abused pausing, then they will receive a warning. If it continues, then any punishments decided by staff will be issued.</p>
+                        </li>
+                        <li>
+                            <p>Make reports, disputes, etc in a timely manner. Defaults will be called on Sunday if no match is played, or if no communications been made. If a team does not show up or muster the minimum number of players required (5, as anything less is an unreasonable disadvantage in this format) to play a match by 15 minutes beyond the agreed upon match time, ­the opposing team may request a forfeit, provided they have the minimum amount of players, and documented proof of having shown up. Additional evidence may be requested by staff, or the match rescheduled/more time granted during review of these types of forfeit requests. </p>
+                        </li>
+	                      <li>
+                            <p>If the enemy team leader does not post anything in Match Comms or responds to you on Steam by 9:30 PM Friday (EST for NA, UTC-3 for SA, CEST for EU, AEST for AU/NZ) which is the default match day, you can submit a "no-show forfeit", which is a 3-point default win for your team by reporting a forfeit for the enemy team when reporting score, and mentioning the reason in Match Comms. We use Match Comms to check if both team leaders agreed on the match time and date, so please note in it that you are going to report the enemy team's forfeit for not showing up before doing so. If neither team shows up or makes any attempt to contact each other or play a game, the match will be declared a technical forfeit for both teams, counting against both teams' number of allowed forfeits.</p>
+                        </li>
+						            <li>
+                            <p>The maximum amount of forfeits a team can get before being forced to drop from the season is 3. Meaning if you forfeit a match 3 times you will be forced to bow out of the season and will not be eligible for any rewards.</p>
+                        </li>
+						            <li>
+                            <p> Matches in which one team leaves completely while currently in progress will count as that team forfeiting the match entirely (including every point scored). If the match is substantially complete, the other team will be awarded full match points for the match only when the partial score is in the remaining team's favor.</p>
+                        </li>
+						            <li>
+                            <p>NOTE: IF FOR ANY REASON THE CONFIG DOESN'T WORK, PLEASE HONOR THE LEAGUE FORMAT.</p>
+                        </li>
+                    </ol>
+                    <li>
+                        <h5>Rewards</h5>
+                    </li>
+                    <ol type="a">
+                        <li>
+                            <p>Are you eligible for any rewards? If you:</p>
+                            <ol type="i">
+                                <li>were rostered on the same team for six weeks during the season;</li>
+                                <li>aren't banned at the end of the season;</li>
+								                <li>your team wasn't dismissed for having their third forfeit;</li>
+                            </ol>
+                            <p>...then you qualify for any rewards. However, if you have bans or infractions, you will be evaluated on a case-by-case basis.</p>
+                        </li>
+                    </ol>
+                    <li>
+                        <h5>Cheating</h5>
+                    </li>
+                    <ol type="a">
+                        <li>
+                            <p>Cheating is a permanent ban. History of cheating in Source games is also a permanent ban.</p>
+                        </li>
+                        <li>
+                            <p>Map exploits are allowed as long as they are "well known." In general, they are allowed if they do not favour one "side" of a map over the other.</p>
+                        </li>
+                    </ol>
+                    <li>
+                        <h5>Infractions</h5>
+                    </li>
+                    <ol type="a">
+                        <li>
+                            <p>Any staff member can give any player an infraction.</p>
+                        </li>
+                        <ul>
+                            <li>One infraction is a warning.</li>
+                            <li>Two infractions is a kick from your team. You may manually join your team again, but you'll be out for the current week.</li>
+                            <li>Three infractions is a season ban.</li>
+                            <li>Four infractions is a permaban.</li>
+                        </ul>
+                    </ol>
+                </ol>

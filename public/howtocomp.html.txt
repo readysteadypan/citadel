@@ -1,0 +1,30 @@
+            <div class="col-md-9">
+                <h2>How to Play Competitive</h2>
+                <p>As many of you will not be very familiar with competitive TF2, we have created a brief help document to guide you through playing official matches Ready Steady Pan.</p>
+                <h3>Signing up for Ready Steady Pan</h3>
+                <p>You must first create an account with us at pan.tf. You can do this simply by logging in with Steam Authentication (the green “Sign in with Steam” button) and you will be automatically taken to an account creation page. You will get notifications about upcoming matches, team invitations and roster changes in the notification section near your username in the navigation bar. We strongly suggest a teamleader to do so to keep track of everything important.</p>
+                <p>You must then either create a team or join another team. You can do this by clicking "Teams" and choosing "Start Team" or ask a teamleader to invite you. We suggest all new team leaders to already have at least five other people in mind before creating a team.</p>
+                <p>To get people to join your team, you should go to your Team Page (accessible from your profile page) and click "Invite" and ask them to join your team using our website. Once the invitation has been sent, the user will recieve a notification and should accept a join request in order to become a team member.</p>
+                <p>You can leave a team at any time as a player. Similarly, team leaders can kick players but the kicked players in question will know that they have been kicked.</p>
+                <p>After you have done these two simple steps, you are now rostered! You can now go to Team Page and view your role, team members, and match schedules.</p>
+                <p><b>TL;DR:</b> Sign up/in, join a team or create a team, invite players and you’re done.</p>
+                <h3>Preparing for Your Matches</h3>
+                <p>Log in to pan.tf at the Player Page and look for your Team Page. You can find everything you need to know about your current scheduled match here, including match communications. It shows the map (you may need to download it if it’s a custom map), opposing team, who is Home and who is Away, and the last date to play the match. Keep them in mind!</p>
+                <p>If you are the Home team, you are asked to provide and admin the server. If you don’t have one, read the rules for clarification. All is well!</p>
+                <p>Teams often do “scrims” with other teams their skill level (except for the next week’s scheduled team, of course) to practice before a game. They are not at all required, but are a lot of fun. You can play in scrims by simply adding other team leaders on Steam, asking on the Discord for scrims, honestly anything that will put you in contact with other team leaders.</p>
+                <h3>Joining Your Server</h3>
+                <p>Your team will probably have a Discord/Mumble/TeamSpeak they use for voice communications. We encourage everybody to use their mic and communicate, as this is the spirit of competitive, and what makes it fun! Join the server (ask your Team Leader) for your team in preparation for all scrims and matches before joining your server.</p>
+                <p>Your Team Leader will give you a “connect string” before any game to connect to a server. It contains the IP address (or domain name) of your server, a port, and a password. Usually, it looks like this:</p>
+                <p><code>connect 1.2.3.4:27015; password my_password;</code>
+                </p>
+                <p>or</p>
+                <p><code>connect my.server.ip.com:27015; password my_password;</code>
+                </p>
+                <p>You must enable “developer console” in the Options in TF2 to be able to use the connect string. It is located in the Keyboard/Input tab in the Options menu. When you are in the main menu of TF2 or in-game, you can access the console with the ` or ~ key (backtick or tilde).</p>
+                <h3>In the Server</h3>
+                <p>When you’re actually connected to the match server, you need to wait for the server to be set up properly and for all twelve players to join. When your team is ready, press F4 to ready up. Unlike MVM and Competitive Mode, F4 readies up your entire team, not just yourself! You should only do it after everybody on your team is ready to start playing.</p>
+                <p>When the “tournament display” for readying up is gone and the game starts, the match is live. The match ends when the display returns (in general) except for stopwatch maps that are best of three. You can ignore that for Season 3 as there are no stopwatch maps.</p>
+                <h3>Viewing Scores</h3>
+                <p>Scores are visible after they have been confirmed by staff, usually within 48 hours. You can view your placement in the scoreboard (we use the Swiss system, same as UGC) using our website.</p>
+                <p>And that’s it! Hope this was informative, and happy panning!</p>
+            </div>

@@ -1,6 +1,9 @@
 %li{ class: navbar_class(:home) }
   = link_to('Home', :pages_home)
 
+%li{ class: navbar_class(:leagues) }
+  = link_to('Seasons', :leagues)
+
 %li{ class: navbar_class(:users) }
   = link_to('Users', :users)
 
@@ -10,8 +13,49 @@
 %li{ class: navbar_class(:forums) }
   = link_to('Forums', :forums)
 
-%li{ class: navbar_class(:leagues) }
-  = link_to('Leagues', :leagues)
+%li{ class: navbar_class(:articles) }
+  = link_to('Help', :articles)
+
+%li.dropdown
+  %a.dropdown-toggle{ role: :button, data: { toggle: :dropdown } }
+    Resources
+    %span.caret
+
+  %ul.dropdown-menu
+    %li{ class: navbar_class(:rules) }
+      = link_to('Rules', :rules)
+
+    %li{ class: navbar_class(:maps) }
+      = link_to('Map Schedule', :maps)
+
+    %li{ class: navbar_class(:plugin) }
+      = link_to('Server plugin', :plugin)
+
+    %li= link_to('Configs ', 'https://github.com/readysteadypan/rspCFG', target: :_blank)
+
+    %li{ class: navbar_class(:links) }
+      = link_to('Links', :links)
+
+%li.dropdown
+  %a.dropdown-toggle{ role: :button, data: { toggle: :dropdown } }
+    About
+    %span.caret
+
+  %ul.dropdown-menu
+    %li{ class: navbar_class(:contact) }
+      = link_to('Contact', :contact)
+      
+    %li{ class: navbar_class(:about) }
+      = link_to('What is Ready Steady Pan?', :about)
+
+    %li{ class: navbar_class(:credits) }
+      = link_to('Credits', :credits)
+
+    %li{ class: navbar_class(:privacy) }
+      = link_to('Privacy', :privacy)
+
+    %li{ class: navbar_class(:terms) }
+      = link_to('Terms', :terms)
 
 - if user_signed_in? && current_user.admin?
   %li{ class: navbar_class(:admin) }

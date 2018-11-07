@@ -18,7 +18,19 @@ Rails.application.routes.draw do
   root 'pages#home'
 
   get 'pages/home'
-
+  get 'rules', to: 'pages#rules'
+  get 'maps', to: 'pages#maps'
+  get 'links', to: 'pages#links'
+  get 'articles', to: 'pages#articles'
+  get 'articles/servers', to: 'pages#servers'
+  get 'articles/howtocomp', to: 'pages#howtocomp'
+  get 'articles/elimination', to: 'pages#elimination'
+  get 'contact', to: 'pages#contact'
+  get 'credits', to: 'pages#credits'
+  get 'privacy', to: 'pages#privacy'
+  get 'terms', to: 'pages#terms'
+  get 'plugin', to: 'pages#plugin'
+  get 'about', to: 'pages#about'
   get 'admin', to: 'admin#index'
   get 'statistics',  to: 'admin#statistics', as: 'admin_statistics'
 

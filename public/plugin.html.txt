@@ -1,0 +1,38 @@
+﻿	<h1 class="page-header text-center">Server plugin</h1>
+		<div class="col-md-8">
+			<p>
+				The Ready Steady Pan Plugin is recommended for better panning experience, but is not required.
+			</p>
+			<p>
+				A plugin made by <a href="https://forums.alliedmods.net/member.php?u=38829" target="_blank">pheadxdll</a> and updated by 200 restricts all players to only use non-combat and melee weapons.
+			</p>
+			<p>
+				We strongly suggest you to make sure you are using the settings below. If you use our config (which is required), you should have them executed automatically.				
+			</p>			
+			<p><code>
+				melee 1<br>
+				melee_healing 0<br>
+				melee_jumper 1<br>
+				melee_jetpack 1<br>
+				melee_circuit 0<br>
+				melee_flag z<br>
+				melee_voteflag z<br>
+				melee_disabled 0<br>
+				melee_arena 0<br>
+				melee_mode 0<br>		
+			</code></p>
+		</div>
+		<div class="col-md-4">
+			<div class="panel panel-default">
+				<div class="panel-heading">
+					<h3 class="panel-title">
+						Download the plugin
+					</h3>
+				</div>
+				<div class="panel-body">
+					<p><a href="https://github.com/readysteadypan/melee/releases/download/untagged-ffe4ae4b57977a4835c2/melee-0.7.1.zip" target="_blank">Direct download</a></p>                
+					<p><a href="https://forums.alliedmods.net/showthread.php?t=132616" target="_blank">AlliedModders release thread</a></p>
+					<p><a href="https://github.com/readysteadypan/melee/" target="_blank">Source code on GitHub</a></p>
+				</div>
+			</div>
+		</div>

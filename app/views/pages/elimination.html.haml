@@ -1,0 +1,5 @@
+- content_for(:title) { 'Double Elimination' }
+
+-# rubocop:disable Rails/OutputSafety
+= raw File.read(Rails.root.join('public', 'elimination.html.txt'))
+-# rubocop:enable Rails/OutputSafety

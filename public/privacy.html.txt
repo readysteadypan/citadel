@@ -1,0 +1,76 @@
+
+                <h1 class="page-header text-center">Privacy Policy</h1>
+                <ol>
+                    <li>
+                        <h5>Foreword</h5>
+                    </li>
+                    <ol type="a">
+                        <li>
+                            <p>We are not an officially registered organization or association. The Ready Steady Pan Team contains rotating volunteer staff from around the world, most (if not all) choosing to stay anonymous. The actions or words of one member of staff are not representative of the league as a whole, and we cannot be held liable as an organization. Please respect our privacy, and the simple desire to bring to the TF2 community something we all enjoy with as little legal drama as possible.</p>
+                        </li>
+                        <li>
+                            <p>We are not affiliated with any other third party organization including (but not limited to) Valve Software, United Gaming Clans, European Team Fortress 2 League, and OzFortress.</p>
+                        </li>
+                        <li>
+                            <p>By using our website, you are agreeing to this policy. If you disagree with the policy, you must cease all use and leave pan.tf immediately.</p>
+                        </li>
+                    </ol>
+                    <li>
+                        <h5>Privacy</h5>
+                    </li>
+                    <ol type="a">
+                        <li>
+                            <p>The staff at Ready Steady Pan are committed to the privacy of all information divulged to us. We will never collect personally identifying information beyond what is necessary for the league to function.</p>
+                        </li>
+                    </ol>
+                    <li>
+                        <h5>What do we collect?</h5>
+                    </li>
+                    <ol type="a">
+                        <li>
+                            <p>For all users, we mandate provision of email addresses and Steam Profiles:</p>
+                        </li>
+                        <ul>
+                            <li>
+                                <p>Email addresses are used for communication with teams and users. We do not keep historical records of email changes, and will never give your emails to any other third party.</p>
+                            </li>
+                            <li>
+                                <p>We do use your emails, however, with services that allow us to send configurable mass emails as newsletters which cannot be avoided. Steam Profiles are used for authentication, Steam Avatar, and a link to your profile. This collected information is public and will be shared explicitly with other players and visitors to the website.</p>
+                            </li>
+                            <li>
+                                <p>We will not gain access to your username, password, or any other login details. We simply use your unique Steam user profile to help log in to our website.</p>
+                            </li>
+                        </ul>
+                        <li>
+                            <p>We also collect other non-identifying data such as (but not limited to) browser type, operating system details, and location and date of access to our website. We cannot continue to collect your data after you have already left the site. We do this using text files stored on your computer called cookies. We collect this data either for confirmation purposes or data analytics to improve our services.</p>
+                        </li>
+                    </ol>
+                    <li>
+                        <h5>Divulgence</h5>
+                    </li>
+                    <ol type="a">
+                        <li>
+                            <p>We will never share or sell our users’ information with or without their permission except when legally required. The website runs under Australian law and jurisdiction.</p>
+                        </li>
+                    </ol>
+                    <li>
+                        <h5>Licensing</h5>
+                    </li>
+                    <ol type="a">
+                        <li>
+                            <p>All code software written officially for Ready Steady Pan operates under the Apache 2.0 permissive open-source licence (not including this site). Most importantly, we are not liable for any damages caused by our website or software, cannot be charged, and will not supply warranty of any kind.</p>
+                        </li>
+                        <li>
+                            <p>The official repositories under the name of Ready Steady Pan use many third-party libraries and software. We are not responsible for any damages caused by the use or breach of these libraries or software, especially in the case of a bug or leak.</p>
+                        </li>
+                    </ol>
+                    <li>
+                        <h5>Use of Intellectual Property</h5>
+                        <ol type="a">
+                            <li>
+                                <p>Our Public Relations team have contacted all owners of maps, resources, etc who have not provided clarification or permissions in their licences to use their intellectual property (IP) in our league. We are committed to abiding by international IP law.</p>
+                            </li>
+                        </ol>
+                        <hr/>
+                    </li>
+                </ol>

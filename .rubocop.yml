@@ -4,7 +4,7 @@ Rails/ApplicationRecord:
   Exclude:
     - 'lib/**/*'
 Metrics/LineLength:
-  Max: 120
+  Max: 128
 Metrics/AbcSize:
   Max: 30
 Metrics/ClassLength:
@@ -13,6 +13,8 @@ Metrics/ModuleLength:
   Max: 250
 Metrics/CyclomaticComplexity:
   Max: 8
+Metrics/MethodLength:
+  Max: 20
 Metrics/BlockLength:
   Enabled: false
 Style/Documentation:

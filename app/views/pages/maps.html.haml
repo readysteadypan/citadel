@@ -1,0 +1,5 @@
+- content_for(:title) { 'Map Schedule' }
+
+-# rubocop:disable Rails/OutputSafety
+= raw File.read(Rails.root.join('public', 'maps.html.txt'))
+-# rubocop:enable Rails/OutputSafety

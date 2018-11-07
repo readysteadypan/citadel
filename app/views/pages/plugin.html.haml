@@ -1,0 +1,5 @@
+- content_for(:title) { 'Server plugin' }
+
+-# rubocop:disable Rails/OutputSafety
+= raw File.read(Rails.root.join('public', 'plugin.html.txt'))
+-# rubocop:enable Rails/OutputSafety

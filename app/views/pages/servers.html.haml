@@ -1,0 +1,5 @@
+- content_for(:title) { 'Servers and RCON' }
+
+-# rubocop:disable Rails/OutputSafety
+= raw File.read(Rails.root.join('public', 'servers.html.txt'))
+-# rubocop:enable Rails/OutputSafety

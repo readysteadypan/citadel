@@ -1,0 +1,354 @@
+        <div class="row">
+            <div class="col-lg-2"></div>
+            <div class="col-lg-8">
+                <h1 class="page-header text-center">Credits</h1>
+            </div>
+        </div>
+        <div class="row">
+            <center><img alt="Ready Steady Pan Banner" class="img-responsive img-rounded" src="/assets/rspwall.png" /></center>
+
+                <h2 class="text-center">Who are we?</h2>
+                <p>A lot of people put work into making Ready Steady Pan a reality. Season 3 almost didn't happen; only after a three year hiatus was it brought back to life.</p>
+                <p>Ready Steady Pan was created by smitzcraft and run by a small team of volunteers. It gained a lot of popular interest worldwide, spurring head admin paced to administer the second season in 2013.</p>
+                <p>An attempt to start up Season 3 went ongoing for three years. Many of our staff left, then came back as their lives got more and less busy. No matter what happened, though, we came back to Ready Steady Pan. We are the Ready Steady Pan Team!</p>
+
+        </div>
+        <div class="row">
+            <h2 class="page-header text-center">Our Team</h2>
+            <div class="col-xs-6 text-center">
+                <div class="thumbnail credits-panel">
+                    <div class="caption">
+                        <h3>paced<br/> <small>Admin, web developer</small></h3>
+                        <p>Head Admin of Season 2, developer of the Season 3 Ready Steady Pan website. Sustains work and life with a IV coffee drip.</p>
+                        <ul class="list-inline">
+                            <li><a href="https://paced.me" target="_blank"><i class="fa fa-2x fa-globe"></i></a>
+                            </li>
+                            <li><a href="https://github.com/paced" target="_blank"><i class="fa fa-2x fa-github"></i></a>
+                            </li>
+                            <li><a href="https://steamcommunity.com/profiles/76561198044205251/" target="_blank"><i class="fa fa-2x fa-steam-square"></i></a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xs-6 text-center">
+                <div class="thumbnail credits-panel">
+                    <div class="caption">
+                        <h3>Umbra<br/> <small>Admin, human resources</small></h3>
+                        <p>Human Resources and NA helper for RSP, CADD student. Played competitive TF2 for three years in tournaments and UGC.</p>
+                        <ul class="list-inline">
+                            <li><a href="https://steamcommunity.com/profiles/76561198045068724/" target="_blank"><i class="fa fa-2x fa-steam-square"></i></a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xs-6 text-center">
+                <div class="thumbnail credits-panel">
+                    <div class="caption">
+                        <h3>200<br/> <small>Web developer</small></h3>
+                        <p>The official Citadel framework css manager of the Season 3.</p>
+                        <ul class="list-inline">
+                            <li><a href="https://github.com/mkrl/" target="_blank"><i class="fa fa-2x fa-github"></i></a>
+                            </li>
+                            <li><a href="https://steamcommunity.com/id/2x100/" target="_blank"><i class="fa fa-2x fa-steam-square"></i></a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xs-6 text-center">
+                <div class="thumbnail credits-panel">
+                    <div class="caption">
+                        <h3>TheDerpySage<br/> <small>Web developer</small></h3>
+                        <p>Website Content Editor and Match Maker. Doesn't get much sleep.</p>
+                        <ul class="list-inline">
+                            <li><a href="http://thederpysage.com/" target="_blank"><i class="fa fa-2x fa-globe"></i></a>
+                            </li>
+                            <li><a href="https://github.com/TheDerpySage/" target="_blank"><i class="fa fa-2x fa-github"></i></a>
+                            </li>
+                            <li><a href="https://steamcommunity.com/profiles/76561193769123314" target="_blank"><i class="fa fa-2x fa-steam-square"></i></a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xs-6 text-center">
+                <div class="thumbnail credits-panel">
+                    <div class="caption">
+                        <h3>kuulise<br/> <small>Staff</small></h3>
+                        <p>
+                            <br/>
+                            <br/>
+                            <br/>
+                        </p>
+                        <ul class="list-inline">
+                            <li><a><i class="fa fa-2x fa-facebook-square" style="opacity: 0"></i></a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xs-6 text-center">
+                <div class="thumbnail credits-panel">
+                    <div class="caption">
+                        <h3>Mr. Player<br/> <small>Staff</small></h3>
+                        <p>
+                            <br/>
+                            <br/>
+                            <br/>
+                        </p>
+                        <ul class="list-inline">
+                            <li><a><i class="fa fa-2x fa-facebook-square" style="opacity: 0"></i></a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xs-6 text-center">
+                <div class="thumbnail credits-panel">
+                    <div class="caption">
+                        <h3>dirtbomb<br/> <small>Helper, North America</small></h3>
+                        <p>I've been with Season 3 of the RSP Team from day one as a NA helper. Ask me for help. Mad respect for anyone who gifts me a gold pan.</p>
+                        <ul class="list-inline">
+                            <li><a href="https://steamcommunity.com/profiles/76561198002403301/" target="_blank"><i class="fa fa-2x fa-steam-square"></i></a>
+                            </li>
+                            <li><a href="https://www.linkedin.com/in/elliott-hansen-553b53123?trk=hp-identity-photo/" target="_blank"><i class="fa fa-2x fa-linkedin-square"></i></a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xs-6 text-center">
+                <div class="thumbnail credits-panel">
+                    <div class="caption">
+                        <h3>FlamingSarge<br/> <small>Plugin developer</small></h3>
+                        <p style="padding-bottom:1.4em">Sourcemod plugin dev and lazy as all hell. He probably knows what he's doing.</p>
+                        <ul class="list-inline">
+                            <li><a href="https://forums.alliedmods.net/member.php?u=84304" target="_blank"><i class="fa fa-2x fa-github"></i></a>
+                            </li>
+                            <li><a href="https://steamcommunity.com/id/flaminsarge" target="_blank"><i class="fa fa-2x fa-steam-square"></i></a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xs-6 text-center">
+                <div class="thumbnail credits-panel">
+                    <div class="caption">
+                        <h3>Hi5TBone<br/> <small>Helper, North America</small></h3>
+                        <p>I'm Hi5TBone, you can call me Hi5 or TBone or whatever. I like hitting people with pans and have too much free time, AMA.</p>
+                        <ul class="list-inline">
+                            <li><a href="https://steamcommunity.com/id/Hi5TBone/" target="_blank"><i class="fa fa-2x fa-steam-square"></i></a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xs-6 text-center">
+                <div class="thumbnail credits-panel">
+                    <div class="caption">
+                        <h3>Fargoth<br/> <small>Staff</small></h3>
+                        <p>
+                            <br/>
+                            <br/>
+                            <br/>
+                        </p>
+                        <ul class="list-inline">
+                            <li><a><i class="fa fa-2x fa-facebook-square" style="opacity: 0"></i></a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xs-6 text-center">
+                <div class="thumbnail credits-panel">
+                    <div class="caption">
+							<h3>Kaiga<br/> <small>Admin, leauge ambassador </small></h3>
+                        <p>
+                            Tournament organizer and enthusiast of all things TF2. Another one of those rank-and-file competititve players, and designer of random stuff from my boat in the middle of the ocean.
+                        </p>
+                        <ul class="list-inline">
+                            <li><a href="https://steamcommunity.com/id/captainspaceman/" target="_blank"><i class="fa fa-2x fa-steam-square"></i></a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xs-6 text-center">
+                <div class="thumbnail credits-panel">
+                    <div class="caption">
+                        <h3>Gigazelle<br/> <small>Artist, modeler</small></h3>
+                        <p>I'm an aspiring 3D modeler and Steam Workshop artist, having submitted many items to TF2's workshop. <b>[REDACTED]</b>
+                        </p>
+                        <ul class="list-inline">
+                            <li><a href="https://steamcommunity.com/id/gigazelle/myworkshopfiles" target="_blank"><i class="fa fa-2x fa-globe"></i></a>
+                            </li>
+                            <li><a href="https://steamcommunity.com/id/gigazelle" target="_blank"><i class="fa fa-2x fa-steam-square"></i></a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xs-6 text-center">
+                <div class="thumbnail credits-panel">
+                    <div class="caption">
+                        <h3>Pampkin Christ<br/> <small>Staff</small></h3>
+                        <p>
+                            <br/>
+                            <br/>
+                            <br/>
+                        </p>
+                        <ul class="list-inline">
+                            <li><a><i class="fa fa-2x fa-facebook-square" style="opacity: 0"></i></a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xs-6 text-center">
+                <div class="thumbnail credits-panel">
+                    <div class="caption">
+                        <h3>Snazzy<br/> <small>Staff</small></h3>
+                        <p>
+                            <br/>
+                            <br/>
+                            <br/>
+                        </p>
+                        <ul class="list-inline">
+                            <li><a><i class="fa fa-2x fa-facebook-square" style="opacity: 0"></i></a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xs-6 text-center">
+                <div class="thumbnail credits-panel">
+                    <div class="caption">
+                        <h3>Cooli<br/> <small>Staff</small></h3>
+                        <p>
+                            <br/>
+                            <br/>
+                            <br/>
+                        </p>
+                        <ul class="list-inline">
+                            <li><a><i class="fa fa-2x fa-facebook-square" style="opacity: 0"></i></a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xs-6 text-center">
+                <div class="thumbnail credits-panel">
+                    <div class="caption">
+                        <h3>Thermite<br/> <small>Helper, Australia</small></h3>
+                        <p>I play in an 4v4 (lul) team. I play TF2, Dota, and Paladins since I'm too poor for Overwatch. LFT 6s Medic AU :D</p>
+                        <ul class="list-inline">
+                            <li><a href="https://steamcommunity.com/id/Thermo-Nuclear/" target="_blank"><i class="fa fa-2x fa-steam-square"></i></a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xs-6 text-center">
+                <div class="thumbnail credits-panel">
+                    <div class="caption">
+                        <h3>ivan;/<br/> <small>Helper, Europe</small></h3>
+                        <p style="padding-bottom: 1.4em; padding-top: 1.4em">Kept you waiting, huh?</p>
+                        <ul class="list-inline">
+                            <li><a href="https://steamcommunity.com/profiles/76561198051582865" target="_blank"><i class="fa fa-2x fa-steam-square"></i></a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xs-6 text-center">
+                <div class="thumbnail credits-panel">
+                    <div class="caption">
+                        <h3>Strychnine<br/> <small>Artist</small></h3>
+                        <br />
+                        <br />
+                        <br />
+                        <ul class="list-inline">
+                            <li><a href="http://steamcommunity.com/id/shadesolstice" target="_blank"><i class="fa fa-2x fa-steam-square"></i></a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <h3 class="text-center">Special Thanks</h3>
+            <p class="text-center">If you feel like you should be on this list and aren't, send me a message and I'll fix it.</p>
+            <hr/>
+            <div class="col-lg-4 text-center">
+                <h4>chaosk</h4>
+                <p>Legacy web developer.</p>
+            </div>
+            <div class="col-lg-4 text-center">
+                <h4>Steve</h4>
+                <p>Legacy admin.</p>
+            </div>
+            <div class="col-lg-4 text-center">
+                <h4>Toba</h4>
+                <p>Legacy admin.</p>
+            </div>
+            <div class="col-lg-4 text-center">
+                <h4>supremecommander</h4>
+                <p>Legacy staff.</p>
+            </div>
+            <div class="col-lg-4 text-center">
+                <h4>Pineapple Wolf</h4>
+                <p>Legacy staff.</p>
+            </div>
+            <div class="col-lg-4 text-center">
+                <h4>Gloney</h4>
+                <p>Legacy staff.</p>
+            </div>
+            <div class="col-lg-4 text-center">
+                <h4>BrainJuic</h4>
+                <p>Legacy staff.</p>
+            </div>
+            <div class="col-lg-4 text-center">
+                <h4>Steaky</h4>
+                <p>Legacy staff.</p>
+            </div>
+            <div class="col-lg-4 text-center">
+                <h4>bm</h4>
+                <p>Legacy staff.</p>
+            </div>
+            <div class="col-lg-4 text-center">
+                <h4>pause</h4>
+                <p>Legacy staff.</p>
+            </div>
+            <div class="col-lg-4 text-center">
+                <h4>Auz</h4>
+                <p>Legacy staff.</p>
+            </div>
+            <div class="col-lg-4 text-center">
+                <h4>Sheller</h4>
+                <p>Legacy staff.</p>
+            </div>
+            <div class="col-lg-4 text-center">
+                <h4>Wiethoofd</h4>
+                <p>Whitelist wizard, sponsor.</p>
+            </div>
+            <div class="col-lg-4 text-center">
+                <h4>Arie</h4>
+                <p>Server provider, sponsor.</p>
+            </div>
+            <div class="col-lg-4 text-center">
+                <h4>KaiThePhaux</h4>
+                <p>Artist.</p>
+            </div>
+            <div class="col-lg-4 text-center">
+				<h4>/dev/zero</h4>
+                <p>Citadel framework dev.</p>
+			</div>
+            <div class="col-lg-4 text-center">
+                <h4>radio!</h4>
+                <p>Artist.</p>
+            </div>
+            <div class="row"></div>
+            <hr/>
+        </div>

@@ -1,0 +1,5 @@
+- content_for(:title) { 'Privacy Policy' }
+
+-# rubocop:disable Rails/OutputSafety
+= raw File.read(Rails.root.join('public', 'privacy.html.txt'))
+-# rubocop:enable Rails/OutputSafety

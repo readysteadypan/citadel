@@ -1,0 +1,5 @@
+- content_for(:title) { 'How to Play Competitive' }
+
+-# rubocop:disable Rails/OutputSafety
+= raw File.read(Rails.root.join('public', 'howtocomp.html.txt'))
+-# rubocop:enable Rails/OutputSafety

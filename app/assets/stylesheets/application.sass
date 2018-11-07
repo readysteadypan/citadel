@@ -29,7 +29,7 @@ a:hover
   text-decoration: none
 
 .banner-citadel
-  background-color: #C9C9C9
+  background-color: #3b302e
 
 .banner-container-citadel
   @extend .container
@@ -49,12 +49,26 @@ a:hover
 
 #navbar.navbar-citadel
   @extend .navbar-inverse
-  background-color: #324752
+  background-color: #3a2f2d
   border-style: solid
-  border-color: #557381 // #425763
-  border-width: 4px 0 4px 0
+  border-color: #5b7a8c
+  border-width: 2px 0 2px 0
   border-radius: 0
-  box-shadow: 0 0 5px black
+  box-shadow: 0 2px 15px 1px  rgba(0,0,0,0.30)
+  
+.navbar-inverse .navbar-nav > li > a, #navbar.navbar-citadel .navbar-nav > li > a
+  color: #ffffff
+  
+.jumbotron 
+  background-color: #ffffff
+  
+.h5 
+  font-weight: bold
+
+  
+#content 
+  margin-bottom: 120px
+
 
 #navbar
   max-height: 100%
@@ -113,7 +127,7 @@ a#login
 
 .navbar-header a.dropdown-toggle
   // from navbar-nav
-  color: #9d9d9d
+  color: #ffffff
   background-color: transparent
 
 .navbar-header > li > a:hover, .navbar-header > li > a:focus, .navbar-header .open > a
@@ -342,3 +356,6 @@ a#login
 .nopadding
   padding: 0 !important
   margin: 0 !important
+
+.credits-panel
+  height: 250px !important

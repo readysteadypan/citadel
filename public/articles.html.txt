@@ -1,0 +1,30 @@
+            <div class="col-md-9">
+                <h2>Help for New Team Leaders</h2>
+                <p>Anybody who can organize five other people together can apply to be a Team Leader by creating a team. Likewise, you can promote other members on your team to Team Leader, which adds a few other responsibilities. This help document will help make those responsibilities clear!</p>
+				
+                <h3>Building Your Team</h3>
+                <p>Your team must at least five other people for a total of 6. This is not a five vs. five competition.  You should have three “substitute” players on your roster in case any of your players can't attend. Ready Steady Pan makes no distinction between a main player and a substitute player. Everyone on the roster is a “team member.”</p>
+				
+                <h3>Match Communication</h3>
+                <p>Match communication is mandatory before any match! Without them, we have no evidence of a match being played when it's reported. This would be “fine” if it weren’t for the possibility of match disputes. Please give us something simple: a “time/place” and “confirmed” message are all we need from both teams.</p>
+                <p>An Away team will need a “connect string” before a match, so provide it on Steam, in the comms, or in some other chat. If you are the Home team, you must provide this information in some way!</p>
+                <p><b>Note:</b> your match comms are not encrypted and you cannot edit or delete messages after sending them! Don’t provide any sensitive information.</p>
+                
+				<h3>Organisation</h3>
+                <p>Have an easy way to contact all your players. We suggest getting to know them outside of Ready Steady Pan to build as much team coherence as possible. When it comes to match time, many times your players may have forgotten and not be able to play, which is not a good sign. It is your, and your team members’, responsibilities to know when match times are. Not everybody will check the website everyday, so good communications are important!</p>
+                <p>My favorite way to let people know about a match or scrim is to message them as soon as the match fixtures are out. Then again the night before the match,  and right before the match to join a voice chat channel. If your players do not respond, assume they have not read your message. Keep the messages brief, don’t spam people, and you should be well organized!</p>
+                <p>Players will also need a “connect string” and voice chat login details (if you’re not using Discord) to be able to play, so provide those details at least once to everybody before each match.</p>
+                
+				<h3>Voice Chat</h3>
+                <p>We suggest using the Discord desktop client for voice communication. It is free to create a server, fast, and easy to use for admins, team leaders, and players.</p>
+                <p>If you cannot use Discord, or prefer a different client, we suggest Mumble. Mumble is an open-source, fast, high-quality VoIP. However, you will need a server (most likely paid) to host your voice channel.</p>
+                <p>Other voice chat programs include TeamSpeak and Ventrilo. We suggest against using anything else (particularly Skype) to host voice chat. </p>
+                
+				<h3>Player Misconduct</h3>
+                <p>RSP uses individual infractions to punish players, not teams, if the player is the only one to have broken rules. We will not notify an entire team if a player earns an infraction, but these infractions are visible on all player profiles. You may want to manage this misconduct in your own ways, like kicking them from the team or giving them a stern talking to and a smack on the bum.</p>
+                <p>We will, punish all the players on a team if they are aware of and allow a player to play with third-party clients and cheats. We may also, when appropriate, apply infractions to all players in a team (but I doubt we’ll need to do this).</p>
+                
+				<h3>Reporting Score</h3>
+                <p>Only the Team Leader role can report the score of a game after it has ended. Specifically, the team who has won is the only team that can report the scores of both teams. Go to the website, select My Team, go to My Match and click Report Score. Type in the scores of both teams and a brief communication message to confirm. The staff will  review these confirmations to ensure everything is O.K. before giving you next week’s fixtures.</p>
+                <p>That’s it! As always, happy panning!</p>
+			</div>

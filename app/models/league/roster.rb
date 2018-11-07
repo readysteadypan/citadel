@@ -166,7 +166,7 @@ class League
 
     private
 
-    # rubocop:disable Metrics/MethodLength, Metrics/AbcSize
+    # rubocop:disable Metrics/AbcSize
     def assign_updated_match_counters
       count = ->(query) { query.reorder(nil).select('COUNT(*)').to_sql }
       query = ActiveRecord::Base.connection.exec_query(<<-SQL)
@@ -187,7 +187,7 @@ class League
       # Calculate points after assigning aggregates
       self.points = calculate_points
     end
-    # rubocop:enable Metrics/MethodLength, Metrics/AbcSize
+    # rubocop:enable Metrics/AbcSize
 
     def calculate_points
       local_counts = [won_rounds_count,          drawn_rounds_count,          lost_rounds_count,

@@ -1,0 +1,41 @@
+            <div class="col-md-9">
+                <h2>Server and RCON</h2>
+                <p>Server ownership can be pretty difficult for the non-technically minded. We suggest using a provider or having a friend who knows servers to help you if you decide to roll your own. Know that we have some fairly intense rules on server creation, so please read them before continuing.</p>
+                <p>Before you buy a server: our configs have all been tested! If they don’t work, either they are not installed properly or your host does not support them. Make sure you have full FTP access to your server; avoid buying servers unless you know you will have this! Try before you buy.</p>
+                <p>Ensure you are keeping up to date with server configs and whitelists by uploading them to the cfg directory in your remote server. Ensure custom maps are loaded into the maps directory. We strongly suggest also installing SourceMod and the official RSP Plugin alongside the configs, but this is not required. The most common way to do this is using FTP. We suggest FileZilla as an FTP client.</p>
+                <p>When you are actually logged into your server, you will need access to rcon commands that give you some extra power. Your provider will give you your rcon password (or they will be set in the configs). Add the following to the connect string when you join a server to access these commands:</p>
+                <p><code>rcon_password my_password;</code>
+                </p>
+                <p>You can type this at any time after connecting, or on the same line as the connect string itself:</p>
+                <p><code>connect ip.to.server.here; password my_password; rcon_password my_rcon;</code>
+                </p>
+                <p>Please do not share your rcon password with anybody except the leaders on your team. Do not share it with the other team. Be careful what you copy-paste to them!</p>
+                <p>If you are the Home team (or the team that is tasked with setting up the server) type in the following:</p>
+                <ul>
+                    <li>
+                        <p>On a KOTH map:</p>
+                    </li>
+                    <p><code>rcon exec rsp_koth;</code>
+                    </p>
+                    <li>
+                        <p>On a 5CP/push map:</p>
+                    </li>
+                    <p><code>rcon exec rsp_standard;</code>
+                    </p>
+                    <li>
+                        <p>On an A/D map:</p>
+                    </li>
+                    <p><code>rcon exec rsp_stopwatch;</code>
+                    </p>
+                    <li>
+                        <p>And type the following to turn off all competitive mode settings after the game is completely over:</p>
+                    </li>
+                    <p><code>rcon exec rsp_off;</code>
+                    </p>
+                    <li>
+                        <p>Remember to refresh the map after you load a config to ensure PanTV works properly!</p>
+                    </li>
+                    <p><code>rcon changelevel koth_somemap;</code>
+                    </p>
+                </ul>
+            </div>

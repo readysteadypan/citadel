@@ -1,19 +1,107 @@
+- if current_page?('/articles')
+  .panel.panel-default
+    .panel-heading Help articles
+    %ul.list-group
+      %li.list-group-item.active
+        Help for New Team Leaders
+      %li.list-group-item
+        = link_to '/articles/servers' do
+          Servers and RCON
+      %li.list-group-item
+        = link_to '/articles/elimination' do
+          Double Elimination
+      %li.list-group-item
+        = link_to '/articles/howtocomp' do
+          How to Play Competitive
+      %li.list-group-item
+        = link_to 'https://steamcommunity.com/sharedfiles/filedetails/?id=163882605', target: '_blank' do
+          A Guide to Euro Highlander
+      %li.list-group-item
+        = link_to 'https://steamcommunity.com/sharedfiles/filedetails/?id=117867854', target: '_blank' do
+          How to Get Into Comp TF2
+
+- if current_page?('/articles/servers')
+  .panel.panel-default
+    .panel-heading Help articles
+    %ul.list-group
+      %li.list-group-item
+        = link_to '/articles' do
+          Help for New Team Leaders
+      %li.list-group-item.active
+        Servers and RCON
+      %li.list-group-item
+        = link_to '/articles/elimination' do
+          Double Elimination
+      %li.list-group-item
+        = link_to '/articles/howtocomp' do
+          How to Play Competitive
+      %li.list-group-item
+        = link_to 'https://steamcommunity.com/sharedfiles/filedetails/?id=163882605', target: '_blank' do
+          A Guide to Euro Highlander
+      %li.list-group-item
+        = link_to 'https://steamcommunity.com/sharedfiles/filedetails/?id=117867854', target: '_blank' do
+          How to Get Into Comp TF2
+
+- if current_page?('/articles/elimination')
+  .panel.panel-default
+    .panel-heading Help articles
+    %ul.list-group
+      %li.list-group-item
+        = link_to '/articles' do
+          Help for New Team Leaders
+      %li.list-group-item
+        = link_to '/articles/servers' do
+          Servers and RCON
+      %li.list-group-item.active
+        Double Elimination
+      %li.list-group-item
+        = link_to '/articles/howtocomp' do
+          How to Play Competitive
+      %li.list-group-item
+        = link_to 'https://steamcommunity.com/sharedfiles/filedetails/?id=163882605', target: '_blank' do
+          A Guide to Euro Highlander
+      %li.list-group-item
+        = link_to 'https://steamcommunity.com/sharedfiles/filedetails/?id=117867854', target: '_blank' do
+          How to Get Into Comp TF2
+
+- if current_page?('/articles/howtocomp')
+  .panel.panel-default
+    .panel-heading Help articles
+    %ul.list-group
+      %li.list-group-item
+        = link_to '/articles' do
+          Help for New Team Leaders
+      %li.list-group-item
+        = link_to '/articles/servers' do
+          Servers and RCON
+      %li.list-group-item
+        = link_to '/articles/elimination' do
+          Double Elimination
+      %li.list-group-item.active
+        How to Play Competitive
+      %li.list-group-item
+        = link_to 'https://steamcommunity.com/sharedfiles/filedetails/?id=163882605', target: '_blank' do
+          A Guide to Euro Highlander
+      %li.list-group-item
+        = link_to 'https://steamcommunity.com/sharedfiles/filedetails/?id=117867854', target: '_blank' do
+          How to Get Into Comp TF2
+
 .panel.panel-default
-  .panel-heading External Links
+  .panel-heading Social Media
   %ul.list-group
     %li.list-group-item
-      = link_to 'http://steamcommunity.com/groups/ozfortress', target: '_blank' do
-        = image_tag 'steam/steam-logo.png'
-        Join our Steam Group
-    %li.list-group-item
-      = link_to 'https://discord.gg/0Scfe0bjjACAuRJ0', target: '_blank' do
+      = link_to 'https://discord.gg/2Jzr43T', target: '_blank' do
         = image_tag 'discord-logo.png'
-        Join us on Discord
+        Join our Discord
     %li.list-group-item
-      = link_to 'http://twitter.com/ozfortress', target: '_blank' do
+      = link_to 'http://steamcommunity.com/groups/readysteadypan', target: '_blank' do
+        = image_tag 'steam/steam-logo.png'
+        Steam Group
+    %li.list-group-item
+      = link_to 'https://twitter.com/ReadySteadyPan', target: '_blank' do
         = image_tag 'twitter-logo.png'
-        Follow us on Twitter
+        Follow on Twitter
     %li.list-group-item
-      = link_to 'http://facebook.com/ozfortress', target: '_blank' do
-        = image_tag 'facebook-logo.png'
-        Like us on Facebook
+      = link_to 'https://www.youtube.com/channel/UC4t7pdKGQZKgrrO7zU7XeJQ', target: '_blank' do
+        = image_tag 'youtube-logo.png'
+        Watch our Videos

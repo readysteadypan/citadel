@@ -12,11 +12,6 @@
 
   %h1= @team.name
 
-- if user_can_edit_team?
-  - unless @active_rosters.exists?
-    .panel.panel-danger
-      .panel-heading Attention! This is a team. Team is a collection of players that can participate in competitions on the site. In order to participate in season games you'll need to invite players to this team, and then go to the "Seasons" tab, select the season you want to participate in and then click on the green "Sign up" button. Without the last step you will not be able to participate in anything.
-
 .panel.panel-default
   .panel-heading Info
   .panel-body.markdown= team_p.description

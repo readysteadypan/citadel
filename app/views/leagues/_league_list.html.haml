@@ -7,7 +7,7 @@
   end
 
 .row
-  .col-xs-9.col-sm-10.nopadding.tab-content
+  .col-xs-12.col-sm-12.nopadding.tab-content
     - (['All'] + categories.keys).each do |category|
       :ruby
         categorised = if category == 'All'
@@ -27,10 +27,3 @@
 
               %h4.list-group-item-heading
                 = league.name
-
-  .col-xs-3.col-sm-2
-    %ul.list-group
-      - select = (['All'] + categories.keys).map { |category| [category, category_id.call(category)] }
-
-      = select_tag game.name.parameterize, options_for_select(select, select[0][1]),
-                   class: 'form-control', data: { toggle: 'tab' }

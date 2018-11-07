@@ -17,7 +17,7 @@ set :rails_env, 'production'
 # set :format, :pretty
 
 # Default value for :log_level is :debug
-# set :log_level, :debug
+set :log_level, :warn
 
 # Make sure password prompts show locally
 set :pty, true

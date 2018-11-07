@@ -1,19 +1,14 @@
-- content_for(:title) { 'Leagues' }
+- content_for(:title) { 'Seasons' }
 
-%h1.tab-header Leagues
+%h1.tab-header Seasons
 
 .col-sm-3.col-md-3.searchbox.pull-right
   = render 'search'
 
 %hr
 
-- if user_can_edit_leagues?
-  = link_to new_league_path, class: 'btn btn-default pull-right' do
-    %span.glyphicon.glyphicon-plus
-    Create New League
-
 - unless @games.empty?
-  %ul.nav.nav-tabs
+  %ul.nav.nav-tabs{ :style => "display: none;" }
     - @games.each_with_index do |game, index|
       - klass = index.zero? ? 'active' : ''
       %li{ class: klass }
@@ -29,6 +24,6 @@
     - leagues = @leagues[game]
     %div{ id: game.name.parameterize, class: klass }
       - if leagues.empty?
-        .panel-body No leagues found...
+        .panel-body No seasons found...
       - else
         = render 'league_list', leagues: leagues, game: game

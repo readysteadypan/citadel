@@ -50,7 +50,7 @@
                     </li>
                     <ol type="a">
                         <li>
-                            <p>We will never share or sell our users’ information with or without their permission except when legally required. The website runs under Australian law and jurisdiction.</p>
+                            <p>We will never share or sell our users’ information with or without their permission except when legally required. The website runs under European Union law and jurisdiction.</p>
                         </li>
                     </ol>
                     <li>

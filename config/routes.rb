@@ -41,6 +41,9 @@ Rails.application.routes.draw do
   end
 
   resources :leagues do
+    get 'control', to: 'leagues#control'
+    get 'control_disband', to: 'leagues#control_disband'
+    get 'control_undisband', to: 'leagues#control_undisband'
     patch 'modify', on: :member
 
     resources :transfers, controller: 'leagues/transfers', only: [:index, :destroy, :update]

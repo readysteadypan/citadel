@@ -1,8 +1,12 @@
 class LeaguesController < ApplicationController
   include LeaguePermissions
 
-  before_action except: [:index, :new, :create] do
+  before_action except: [:index, :new, :create, :control, :control_disband, :control_undisband] do
     @league = League.includes(:tiebreakers).find(params[:id])
+  end
+
+  before_action only: [:control, :control_disband, :control_undisband] do
+    @league = League.includes(:tiebreakers).find(params[:league_id])
   end
 
   before_action :require_user_leagues_permission, only: [:new, :create, :destroy]
@@ -92,9 +96,10 @@ class LeaguesController < ApplicationController
 
   def control_disband
     i = 0
-    season = League.find(@league_id)
-    msg = 'Your team was disqualified from the season \
-      for having 3 forfeits. If you have any questions, \
+    league_id = @league.id
+    season = League.find(league_id)
+    msg = 'Your team was disqualified from the season
+      for having 3 forfeits. If you have any questions,
       feel free to contact us on Discord.'
     season.rosters.find_each do |roster|
       if roster.forfeit_lost_matches_count >= 3
@@ -107,15 +112,15 @@ class LeaguesController < ApplicationController
       end
     end
     redirect_to league_path(@league)
-    flash[:notice] = 'You have succesfully disbanded ' + i.to_s + ' rosters \
-      that had more than 3 forfeits. \
-      Don\'t forget to check on the current pending matches, \
+    flash[:notice] = 'You have succesfully disbanded ' + i.to_s + ' rosters that had more than 3 forfeits.
+      Don\'t forget to check on the current pending matches,
       because for newly disbanded rosters it keeps match scores as pending.'
   end
 
   def control_undisband
     i = 0
-    season = League.find(@league_id)
+    league_id = @league.id
+    season = League.find(league_id)
     season.rosters.find_each do |roster|
       if roster.disbanded?
         roster.update(disbanded: false)
@@ -123,7 +128,7 @@ class LeaguesController < ApplicationController
       end
     end
     redirect_to league_path(@league)
-    flash[:notice] = 'You have succesfully undisbanded ' + i.to_s + ' rosters. \
+    flash[:notice] = 'You have succesfully undisbanded ' + i.to_s + ' rosters.
       I don\'t know why did you do this, but please be careful.'
   end
 

@@ -9,19 +9,19 @@
 %br
 
 .col-sm-12.col-md-3
-  %a.btn.btn-danger.btn-block{ 'data-confirm' => DISBAND_CONFIRM_MESSAGE,
-    :href => league_control_disband_path(@league),
-    :role => 'button' }
+  %a.btn.btn-danger.btn-block{ 'data-confirm': LeaguesHelper::DISBAND_CONFIRM_MESSAGE,
+    href: league_control_disband_path(@league),
+    role: 'button' }
     Disband bad rosters
   %br
-  %a.btn.btn-danger.btn-block{ 'data-confirm' => UNDISBAND_CONFIRM_MESSAGE,
-    :href => league_control_undisband_path(@league),
-    :role => 'button' }
+  %a.btn.btn-danger.btn-block{ 'data-confirm': LeaguesHelper::UNDISBAND_CONFIRM_MESSAGE,
+    href: league_control_undisband_path(@league),
+    role: 'button' }
     Undisband ALL rosters
 .col-sm-12.col-md-9
   .alert.alert-warning
     %span.glyphicon.glyphicon-exclamation-sign
-    Please memorise all the rosters that are currently disbanded so you could revert this \
+    Please memorise all the rosters that are currently disbanded so you could revert this
     manually if something goes wrong. You can save the page with Ctrl+S for speed.
   .panel-body.table-responsive
     - content_for :head do

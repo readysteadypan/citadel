@@ -4,15 +4,16 @@
     %meta{ content: 'text/html; charset=UTF-8', 'http-equiv' => 'Content-Type' }
     - viewport = 'width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no'
     %meta{ name: 'viewport', content: viewport }
-    %meta{ content: 'Ready Steady Pan is an introductory 6v6 competitive format in Team Fortres 2, revolving around the use of food items and the frying pan.', 'property' => 'og:description' }
+    %meta{ content: site_description, 'property' => 'description' }
+    %meta{ content: site_description, 'property' => 'og:description' }
     %meta{ content: 'pan.tf', 'property' => 'og:site_name' }
     %meta{ content: 'en_US', 'property' => 'og:locale' }
-    %meta{ content: 'Ready Steady Pan is an introductory 6v6 competitive format in Team Fortres 2, revolving around the use of food items and the frying pan.', 'name' => 'twitter:description' }
+    %meta{ content: site_description, 'name' => 'twitter:description' }
     %meta{ content: 'https://pan.tf', 'name' => 'twitter:url' }
     %meta{ content: 'Ready Steady Pan', 'name' => 'twitter:title' }
     %meta{ content: '/images/rspwall.png', 'name' => 'twitter:image' }
     / Global Site Tag (gtag.js) - Google Analytics
-    %script{:async => "", :src => "https://www.googletagmanager.com/gtag/js?id=UA-96442741-1"}
+    %script{ async: '', src: 'https://www.googletagmanager.com/gtag/js?id=UA-96442741-1' }
     :javascript
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments)};

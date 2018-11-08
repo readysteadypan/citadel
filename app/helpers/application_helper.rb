@@ -9,6 +9,17 @@ module ApplicationHelper
     end
   end
 
+  def site_description
+    config = Rails.configuration.rsp
+    if config['type'] == 'season'
+      config['desc'] + ' Currently in Season ' + config['season'].to_s + '.'
+    elsif config['type'] == 'none'
+      config['desc']
+    else
+      throw 'Invalid config: config/rsp.yml'
+    end
+  end
+
   def navbar_active?(name)
     case name
     when :home

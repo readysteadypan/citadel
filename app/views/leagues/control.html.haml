@@ -9,13 +9,20 @@
 %br
 
 .col-sm-12.col-md-3
-  %a.btn.btn-danger.btn-block{"data-confirm" => "Are you sure you want to disband rosters with more than 3 forfeit loses? This can not be undone automatically", :href => league_control_disband_path(@league), :role => "button"} Disband bad rosters
+  %a.btn.btn-danger.btn-block{ 'data-confirm' => DISBAND_CONFIRM_MESSAGE,
+    :href => league_control_disband_path(@league),
+    :role => 'button' }
+    Disband bad rosters
   %br
-  %a.btn.btn-danger.btn-block{"data-confirm" => "Are you sure you want to undisband ALL rosters in this season? This can not be undone automatically", :href => league_control_undisband_path(@league), :role => "button"} Undisband ALL rosters
+  %a.btn.btn-danger.btn-block{ 'data-confirm' => UNDISBAND_CONFIRM_MESSAGE,
+    :href => league_control_undisband_path(@league),
+    :role => 'button' }
+    Undisband ALL rosters
 .col-sm-12.col-md-9
   .alert.alert-warning
     %span.glyphicon.glyphicon-exclamation-sign
-    Please memorise all the rosters that are currently disbanded so you could revert this manually if something goes wrong. You can save the page with Ctrl+S for speed.
+    Please memorise all the rosters that are currently disbanded so you could revert this \
+    manually if something goes wrong. You can save the page with Ctrl+S for speed.
   .panel-body.table-responsive
     - content_for :head do
       = javascript_include_tag 'brackets'

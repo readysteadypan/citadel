@@ -24,5 +24,8 @@ module Ozfortress
 
     # News config file
     config.news = config_for(:news)
+
+    # News config file
+    config.rsp = config_for(:rsp)
   end
 end

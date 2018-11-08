@@ -1,0 +1,16 @@
+default: &default
+  # season or none
+  type: none
+  # currently in this season
+  season: 5
+  # description used for OG and HTML meta tags
+  desc: Ready Steady Pan is an introductory 6v6 competitive format in Team Fortres 2, revolving around the use of food items and the frying pan.
+
+development:
+  <<: *default
+
+test:
+  <<: *default
+
+production:
+  <<: *default

@@ -19,9 +19,7 @@ namespace :citadel do
         player = JSON.parse(res.body)
         name = player['response']['players'].first['personaname']
         user = User.new(name: name, steam_id: args.steamid, created_at: Time.zone.now, updated_at: Time.zone.now)
-        if user.save
-          puts "Successfully registered #{user.name} with ID #{user.id}."
-        end
+        puts "Successfully registered #{user.name} with ID #{user.id}." if user.save
       end
     end
   end

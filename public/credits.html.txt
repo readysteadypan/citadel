@@ -5,7 +5,7 @@
             </div>
         </div>
         <div class="row">
-            <center><img alt="Ready Steady Pan Banner" class="img-responsive img-rounded" src="/assets/rspwall.png" /></center>
+            <center><img alt="Ready Steady Pan Banner" class="img-responsive img-rounded" src="/images/rspwall.png" /></center>
 
                 <h2 class="text-center">Who are we?</h2>
                 <p>A lot of people put work into making Ready Steady Pan a reality. Season 3 almost didn't happen; only after a three year hiatus was it brought back to life.</p>

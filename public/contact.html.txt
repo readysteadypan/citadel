@@ -1,5 +1,5 @@
                 <h1 class="page-header text-center">Contact Us</h1>
-                <a href="https://discord.gg/2Jzr43T" target="_blank"><img alt="Discord Chat Logo" class="center-block img-responsive" src="/assets/logos/discord.png" style="width: 50%" />
+                <a href="https://discord.gg/2Jzr43T" target="_blank"><img alt="Discord Chat Logo" class="center-block img-responsive" src="/images/logos/discord.png" style="width: 50%" />
                 </a>
                 <h3>For General Enquiries</h3>
                 <p>We answer all questions about the nature of Ready Steady Pan on the Ready Steady Pan Discord channel. Such enquiries may have already been answered in our help articles, FAQ's, and other resources, so please check on our website before adding us to chat. That being said, our staff will get to you as soon as we can if you have a pressing query.</p>
@@ -7,7 +7,7 @@
                 <p>We have three dedicated teams located in North America, all across Europe, and in the Australasian region ready to help teams and players with any problems they may have. We exclusively live on Discord in the #help channel, so @mention us or DM us to get our attention.</p>
                 <h3>To Be a Part of Our Community</h3>
                 <p>Discord is where all the staff, content creators, team leaders, players, chefs, and pan enthusiasts live. Team Fortress 2 is primarily a game fueled by the passion of its community (especially recently), so we would love to reflect that in our channel. Come join in while also receiving priority news, updates, sneak peeks, resources, and help.</p>
-                <a href="https://steamcommunity.com/groups/readysteadypan" target="_blank"><img alt="Steam Logo" class="center-block img-responsive" src="/assets/logos/steam.png" style="width: 50%;" />
+                <a href="https://steamcommunity.com/groups/readysteadypan" target="_blank"><img alt="Steam Logo" class="center-block img-responsive" src="/images/logos/steam.png" style="width: 50%;" />
                 </a>
                 <h3>Legacy Announcements</h3>
                 <p>The Ready Steady Pan team first posts a blog post which propagates to the appropriate newslists (email), then a link to Discord, finally to a Steam announcement. It is far more efficient to view our blog occasionally and receive emails from Ready Steady Pan on updates, but for those who want to receive the in-game announcements and notifications, the Steam group is available.</p>

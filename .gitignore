@@ -1,5 +1,7 @@
-
 # Created by https://www.gitignore.io/api/ruby,rails
+
+/config/database.yml
+/config/news.yml
 
 ### Ruby ###
 *.gem

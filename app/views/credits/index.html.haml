@@ -1,0 +1,83 @@
+.row
+  .col-lg-2
+  .col-lg-8
+    %h1.page-header.text-center Credits
+.row
+  %center
+    %img.img-responsive.img-rounded{alt: "Ready Steady Pan Banner", src: "/images/rspwall.png"}/
+  %h2.text-center Who are we?
+  %p A lot of people put work into making Ready Steady Pan a reality. Season 3 almost didn't happen; only after a three year hiatus was it brought back to life.
+  %p Ready Steady Pan was created by smitzcraft and run by a small team of volunteers. It gained a lot of popular interest worldwide, spurring head admin paced to administer the second season in 2013.
+  %p An attempt to start up Season 3 went ongoing for three years. Many of our staff left, then came back as their lives got more and less busy. No matter what happened, though, we came back to Ready Steady Pan. We are the Ready Steady Pan Team!
+.row
+  %h2.page-header.text-center Our Team
+  - @members.each do |member|
+    .col-xs-6.text-center
+      .thumbnail.credits-panel
+        .caption
+          %h3
+            = member.name
+            %br
+            %small= member.badge_name
+          %p= member.description
+          %ul.list-inline
+            %li
+              %a{href: "https://steamcommunity.com/profiles/" + member.steam_64.to_s + "/", target: "_blank"}
+                %i.fa.fa-2x.fa-steam-square
+.row
+  %h3.text-center Special Thanks
+  %p.text-center If you feel like you should be on this list and aren't, send me a message and I'll fix it.
+  %hr
+  .col-lg-4.text-center
+    %h4 chaosk
+    %p Legacy web developer.
+  .col-lg-4.text-center
+    %h4 Steve
+    %p Legacy admin.
+  .col-lg-4.text-center
+    %h4 Toba
+    %p Legacy admin.
+  .col-lg-4.text-center
+    %h4 supremecommander
+    %p Legacy staff.
+  .col-lg-4.text-center
+    %h4 Pineapple Wolf
+    %p Legacy staff.
+  .col-lg-4.text-center
+    %h4 Gloney
+    %p Legacy staff.
+  .col-lg-4.text-center
+    %h4 BrainJuic
+    %p Legacy staff.
+  .col-lg-4.text-center
+    %h4 Steaky
+    %p Legacy staff.
+  .col-lg-4.text-center
+    %h4 bm
+    %p Legacy staff.
+  .col-lg-4.text-center
+    %h4 pause
+    %p Legacy staff.
+  .col-lg-4.text-center
+    %h4 Auz
+    %p Legacy staff.
+  .col-lg-4.text-center
+    %h4 Sheller
+    %p Legacy staff.
+  .col-lg-4.text-center
+    %h4 Wiethoofd
+    %p Whitelist wizard, sponsor.
+  .col-lg-4.text-center
+    %h4 Arie
+    %p Server provider, sponsor.
+  .col-lg-4.text-center
+    %h4 KaiThePhaux
+    %p Artist.
+  .col-lg-4.text-center
+    %h4 /dev/zero
+    %p Citadel framework dev.
+  .col-lg-4.text-center
+    %h4 radio!
+    %p Artist.
+  .row
+  %hr/

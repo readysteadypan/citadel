@@ -19,6 +19,7 @@ Rails.application.routes.draw do
 
   get 'pages/home'
   get 'rules', to: 'pages#rules'
+  get 'maps', to: 'pages#maps'
   get 'links', to: 'pages#links'
   get 'articles', to: 'pages#articles'
   get 'articles/servers', to: 'pages#servers'

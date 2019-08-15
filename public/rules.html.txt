@@ -74,7 +74,7 @@
                         </li>
                         <li>
                             <p>The total number of regular season games is calculated by the following (A is number of NA teams, B is number of EU teams, C is number of AUNZ teams):</p>
-                        </li><img alt="Rounds number algorithm" class="img-responsive center-block" src="assets/rules/numrounds.png">
+                        </li><img alt="Rounds number algorithm" class="img-responsive center-block" src="images/rules/numrounds.png">
                         <li>
                             <p>Playoffs is top 16 double elimination, and will run for five weeks. The finals and lower bracket finals are best of three.</p>
                         </li>

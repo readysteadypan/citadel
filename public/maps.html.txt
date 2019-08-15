@@ -13,49 +13,8 @@
                             <td>pl_tapline_b5</td>
                         </tr>
                         <tr>
-                            <td>Preseason Week 2 (July 2-7)</td>
-                            <td>koth_highpass</td>
-                        </tr>
-                        <tr>
-                            <td>Week 1 (July 9-14)</td>
-                            <td>koth_stallone_b2</td>
-                        </tr>
-                        <tr>
-                            <td>Week 2 (July 16-21)</td>
-                            <td>cp_powerhouse</td>
-                        </tr>
-                        <tr>
-                            <td>Week 3 (July 23-28)</td>
-                            <td>koth_trainsawlaser_pro_rc1</td>
-                        </tr>
-                        <tr>
-                            <td>Week 4 (July 30-August 4)</td>
-                            <td>cp_warmfrost_rc1</td>
-                        </tr>
-                        <tr>
-                            <td>Week 5 (August 6-11)</td>
-                            <td>koth_product_rc9</td>
-                        </tr>
-                        <tr>
-                            <td>Week 6 (August 13-18)</td>
-                            <td>koth_ashville_rc1</td>
-                        </tr>
-                        <tr>
-                            <td>Week 7 (August 20-25)</td>
-                            <td>cp_depankeep_b2</td>
-                        </tr>
-                        <tr>
-                            <td>Week 8 (August 27-September 1)</td>
-                            <td>cp_alamo</td>
-                        </tr>
-                        <tr>
-                            <td>Playoffs (TBA)</td>
                             <td>TBA</td>
-                        </tr>
-                        <tr>
-                            <td>Grand Final (TBA)</td>
                             <td>TBA</td>
-                        </tr>
                     </tbody>
                 </table>
 
@@ -79,40 +38,7 @@
                             <td><a href="https://tf2maps.net/downloads/pl_tapline.5456/download?version=14070" target="_blank">Download from TF2Maps</a></td>
                         </tr>
                         <tr>
-                            <td>koth_highpass</td>
-                            <td><p>Official Map</p></td>
-                        </tr>
-                        <tr>
-                            <td>koth_stallone_b2</td>
-                            <td><a href="http://fakkelbrigade.eu/maps/koth_stallone_b2.bsp" target="_blank">Download from FakkelBrigade</a></td>
-                        </tr>
-                        <tr>
-                            <td>cp_powerhouse</td>
-                            <td><p>Official Map</p></td>
-                        </tr>
-                        <tr>
-                            <td>koth_trainsawlaser_pro_rc1</td>
-                            <td><a href="http://fakkelbrigade.eu/maps/koth_trainsawlaser_pro_rc1.bsp" target="_blank">Download from FakkelBrigade</a></td>
-                        </tr>
-                        <tr>
-                            <td>cp_warmfrost_rc1</td>
-                            <td><a href="http://fakkelbrigade.eu/maps/cp_warmfrost_rc1.bsp" target="_blank">Download from FakkelBrigade</a></td>
-                        </tr>
-                        <tr>
-                            <td>koth_product_rc9</td>
-                            <td><a href="http://fakkelbrigade.eu/maps/koth_product_rc9.bsp" target="_blank">Download from FakkelBrigade</a></td>
-                        </tr>
-                        <tr>
-                            <td>cp_depankeep_b2</td>
-                            <td><a href="http://fakkelbrigade.eu/maps/cp_depankeep_b2.bsp" target="_blank">Download from FakkelBrigade</a></td>
-                        </tr>
-                        <tr>
-                            <td>koth_ashville_rc1</td>
-                            <td><a href="http://fakkelbrigade.eu/maps/koth_ashville_rc1.bsp" target="_blank">Download from FakkelBrigade</a></td>
-                        </tr>
-                        <tr>
-                            <td>cp_alamo</td>
-                            <td><a href="http://fakkelbrigade.eu/maps/cp_alamo.bsp" target="_blank">Download from FakkelBrigade</a></td>
-                        </tr>
+                            <td>TBA</td>
+                            <td>TBA</td>
                     </tbody>
                 </table>

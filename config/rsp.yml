@@ -4,7 +4,7 @@ default: &default
   # currently in this season
   season: 5
   # description used for OG and HTML meta tags
-  desc: Ready Steady Pan is an introductory 6v6 competitive format in Team Fortres 2, revolving around the use of food items and the frying pan.
+  desc: Ready Steady Pan is an introductory 6v6 competitive format in Team Fortress 2, revolving around the use of the frying pan.
   # credits page team id
   teamid: 478
 

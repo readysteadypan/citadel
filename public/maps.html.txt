@@ -1,5 +1,5 @@
                 <h1 class="page-header text-center">Map Schedules</h1>
-                <p>Please note that these maps aren't set until the end of the registration period. The length of the regular season depends on the maximum number of teams registered in each regional division. If it is less than 128 teams, we will shorten the season.</p>
+                <p>These maps are subject to change at anytime. We will announce if and when changes occur.</p>
                 <table class="table table-hover table-responsive">
                     <thead>
                         <tr>
@@ -9,12 +9,37 @@
                     </thead>
                     <tbody>
                         <tr>
-                            <td>Preseason Week 1 (June 25-30)</td>
-                            <td>pl_tapline_b5</td>
+                            <td>Week 1 (Oct 21 - Oct 26)</td>
+                            <td>koth_warmtic_rc4</td>
                         </tr>
                         <tr>
-                            <td>TBA</td>
-                            <td>TBA</td>
+                            <td>Week 2 (Oct 28 - Nov 2)</td>
+                            <td>koth_harvest_event</td>
+                        </tr>
+                        <tr>
+                            <td>Week 3 (Nov 4 - Nov 9)</td>
+                            <td>koth_stallone_rc4</td>
+                        </tr>
+                        <tr>
+                            <td>Week 4 (Nov 11 - Nov 16)</td>
+                            <td>koth_trainsawlaser_pro_rc1 (or koth_coalplant_b8 for those who have crashing issues)</td>
+                        </tr>
+                        <tr>
+                            <td>Week 5 (Nov 18 - Nov 23)</td>
+                            <td>koth_airfield_b7</td>
+                        </tr>
+                        <tr>
+                            <td>Week 6 (Nov 25 - 30)</td>
+                            <td>koth_highpass</td>
+                        </tr>
+                        <tr>
+                            <td>Week 7 (Dec 2 - Dec 7)</td>
+                            <td>koth_ramjam_rc1</td>
+                        </tr>
+                        <tr>
+                            <td>Week 8 (Dec 9 - Dec 14)</td>
+                            <td>koth_product_rcx</td>
+                        </tr>
                     </tbody>
                 </table>
 
@@ -24,7 +49,7 @@
                 -->
 
                 <h2 class="page-header text-center">Map Downloads</h2>
-				        <p>Map downloads provided by TF2Maps.net, FakkelBrigade (NA/EU), and Qixalite (AU).</p>
+				        <p>Map downloads provided by FakkelBrigade/Serveme.tf.</p>
                 <table class="table table-hover">
                     <thead>
                         <tr>
@@ -34,8 +59,40 @@
                     </thead>
                     <tbody>
                         <tr>
-                            <td>pl_tapline_b5</td>
-                            <td><a href="https://tf2maps.net/downloads/pl_tapline.5456/download?version=14070" target="_blank">Download from TF2Maps</a></td>
+                            <td>koth_warmtic_rc4</td>
+                            <td><a href="http://fakkelbrigade.eu/maps/koth_warmtic_rc4.bsp.bz2" target="_blank">Download from FakkelBrigade</a></td>
+                        </tr>
+                        <tr>
+                            <td>koth_harvest_event</td>
+                            <td>Official Map</td>
+                        </tr>
+                        <tr>
+                            <td>koth_stallone_rc4</td>
+                            <td><a href="http://fakkelbrigade.eu/maps/koth_stallone_b2.bsp.bz2" target="_blank">Download from FakkelBrigade</a></td>
+                        </tr>
+                        <tr>
+                            <td>koth_trainsawlaser_pro_rc1</td>
+                            <td><a href="http://fakkelbrigade.eu/maps/koth_trainsawlaser_pro_rc1.bsp.bz2" target="_blank">Download from FakkelBrigade</a></td>
+                        </tr>
+                        <tr>
+                            <td>koth_coalplant_b8</td>
+                            <td><a href="http://fakkelbrigade.eu/maps/koth_coalplant_b8.bsp.bz2" target="_blank">Download from FakkelBrigade</a></td>
+                        </tr>
+                        <tr>
+                            <td>koth_airfield_b7</td>
+                            <td><a href="http://fakkelbrigade.eu/maps/koth_airfield_b7.bsp.bz2" target="_blank">Download from FakkelBrigade</a></td>
+                        </tr>
+                        <tr>
+                            <td>koth_highpass</td>
+                            <td>Official Map</td>
+                        </tr>
+                        <tr>
+                            <td>koth_ramjam_rc1</td>
+                            <td><a href="http://fakkelbrigade.eu/maps/koth_ramjam_rc1.bsp.bz2" target="_blank">Download from FakkelBrigade</a></td>
+                        </tr>
+                        <tr>
+                            <td>koth_product_rcx</td>
+                            <td><a href="http://fakkelbrigade.eu/maps/koth_product_rcx.bsp.bz2" target="_blank">Download from FakkelBrigade</a></td>
                         </tr>
                         <tr>
                             <td>TBA</td>

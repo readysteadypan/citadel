@@ -1,13 +1,11 @@
 
                 <h1 class="page-header text-center">Helpful Links</h1>
                 <h3>Server Providers</h3>
-                <p>We are thankful to have these generous server hosts and providers to help our teams and players schedule matches. Without the support of these sponsors and donators, we would expect at least half of our teams to own their own personal servers. Our main sponsor is serveme.tf, a fantastic service operating in Australia, Europe, and North America that provides the ability to rent completely configured TF2 servers. serveme.tf is completely free, with a premium model for priority support and services should you want it! For our Australian users we also partner with Qixalite, another free server booking service. Qixalite also provide an AU mirrors for our map downloads. We also thank CPU.TF - a highly advanced server provider with servers all around the world.</p>
+                <p>We are thankful to have these generous server hosts and providers to help our teams and players schedule matches. Without the support of these sponsors and donators, we would expect at least half of our teams to own their own personal servers. Our main sponsor is serveme.tf, a fantastic service operating in Australia, Europe, and North America that provides the ability to rent completely configured TF2 servers. serveme.tf is completely free, with a premium model for priority support and services should you want it! For our Australian users we also partner with Qixalite, another free server booking service. Qixalite also provide an AU mirrors for our map downloads.</p>
                 <a href="https://serveme.tf" target="_blank"><img alt="serveme.tf" class="center-block img-responsive" src="/images/partners/serveme.png" style="padding-bottom: 1.3em" />
                 </a>
 				<a href="http://steamcommunity.com/groups/qixalite" target="_blank"><img alt="Qixalite" class="center-block img-responsive" src="/images/partners/qixalite.png" style="padding-bottom: 1.3em" />
                 </a>
-                </a>
-				<a href="https://cpu.tf" target="_blank"><img alt="CPU.TF" class="center-block img-responsive" src="/images/partners/cputf.png" style="padding-bottom: 1.3em" />
                 </a>
                 <h3>Other Competitive Leagues</h3>
                 <p>Ready Steady Pan didn't just come from nothing. Competitive Team Fortress 2 has been around for quite some time before matchmaking was introduced. In fact, Season 2 of Ready Steady Pan took place three years ago! We have the following leagues to thank for their continuous effort:</p>

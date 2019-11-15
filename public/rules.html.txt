@@ -154,7 +154,7 @@
                             <p>Make reports, disputes, etc in a timely manner. Defaults will be called on Sunday if no match is played, or if no communications been made. If a team does not show up or muster the minimum number of players required (5, as anything less is an unreasonable disadvantage in this format) to play a match by 15 minutes beyond the agreed upon match time, ­the opposing team may request a forfeit, provided they have the minimum amount of players, and documented proof of having shown up. Additional evidence may be requested by staff, or the match rescheduled/more time granted during review of these types of forfeit requests. </p>
                         </li>
 	                      <li>
-                            <p>If the enemy team leader does not post anything in Match Comms or responds to you on Steam by 9:30 PM Friday (EST for NA, UTC-3 for SA, CEST for EU, AEST for AU/NZ) which is the default match day, you can submit a "no-show forfeit", which is a 3-point default win for your team by reporting a forfeit for the enemy team when reporting score, and mentioning the reason in Match Comms. We use Match Comms to check if both team leaders agreed on the match time and date, so please note in it that you are going to report the enemy team's forfeit for not showing up before doing so. If neither team shows up or makes any attempt to contact each other or play a game, the match will be declared a technical forfeit for both teams, counting against both teams' number of allowed forfeits.</p>
+                            <p>If the enemy team leader does not post anything in Match Comms or responds to you on Steam by 9:30 PM Friday (EST for NA, UTC-3 for SA, <span id="eu-current-tz">CEST</span> for EU, AEST for AU/NZ) which is the default match day, you can submit a "no-show forfeit", which is a 3-point default win for your team by reporting a forfeit for the enemy team when reporting score, and mentioning the reason in Match Comms. We use Match Comms to check if both team leaders agreed on the match time and date, so please note in it that you are going to report the enemy team's forfeit for not showing up before doing so. If neither team shows up or makes any attempt to contact each other or play a game, the match will be declared a technical forfeit for both teams, counting against both teams' number of allowed forfeits.</p>
                         </li>
 						            <li>
                             <p>The maximum amount of forfeits a team can get before being forced to drop from the season is 3. Meaning if you forfeit a match 3 times you will be forced to bow out of the season and will not be eligible for any rewards.</p>
@@ -206,3 +206,14 @@
                         </ul>
                     </ol>
                 </ol>
+		
+<script>
+	const getEUDaylightSavingsTime = date => {
+		const currentYear = date.getFullYear()
+		const lastSundayOfMarch = new Date(currentYear, 3, 0)
+		const lastSundatOfOctober = new Date(currentYear, 10, 0)
+		return ((date > lastSundayOfMarch) && (date < lastSundatOfOctober)) ? 'CET' : 'CEST'
+	}
+	const euTzNode = document.querySelector('#eu-current-tz')
+	euTzNode.innerHTML = getEUDaylightSavingsTime(new Date())
+</script>

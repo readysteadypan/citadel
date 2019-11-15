@@ -118,7 +118,7 @@
                     </li>
                     <ol type="a">
 			                  <li>
-                            <p>The default match day for Season 4 is Friday at 9:30 PM (EST for NA, UTC-3 for SA, CEST for EU, AEST for AU/NZ), meaning if no other day is agreed on then Friday must be the day you play. Teams are required to use website Match Comms, as well as team captains communicating through steam to find a match time that works for both of them. Teams must do all in their power to play on the default or agreed upon day, and submit scores by the deadline. In the event that the team captain or member with leader permissions is unavailable for communication prior to a match, teams are required to delegate that responsibility to a co-captain and make the enemy team aware of this via Match Comms so the correct players can be contacted.</p>
+                            <p>The default match day for Season 4 is Friday at 9:30 PM (ET for NA, UTC-3 for SA, CET for EU, AET for AU/NZ), meaning if no other day is agreed on then Friday must be the day you play. Teams are required to use website Match Comms, as well as team captains communicating through steam to find a match time that works for both of them. Teams must do all in their power to play on the default or agreed upon day, and submit scores by the deadline. In the event that the team captain or member with leader permissions is unavailable for communication prior to a match, teams are required to delegate that responsibility to a co-captain and make the enemy team aware of this via Match Comms so the correct players can be contacted.</p>
                         </li>
 			                  <li>
                             <p>Match Scores submission deadline is 11:59 PM EST Saturday Night.</p>

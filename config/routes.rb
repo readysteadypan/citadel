@@ -44,6 +44,7 @@ Rails.application.routes.draw do
     get 'control', to: 'leagues#control'
     get 'control_disband', to: 'leagues#control_disband'
     get 'control_undisband', to: 'leagues#control_undisband'
+    get 'medals', to: 'leagues#medals'
     patch 'modify', on: :member
 
     resources :transfers, controller: 'leagues/transfers', only: [:index, :destroy, :update]
